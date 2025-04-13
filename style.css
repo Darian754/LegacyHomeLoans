@@ -1,0 +1,15 @@
+/* Team Section */
+.team img {
+    border: 3px solid var(--primary);
+    object-fit: cover;
+    height: 120px;
+  }
+  
+  /* Testimonials */
+  .testimonials .carousel-control-prev,
+  .testimonials .carousel-control-next {
+    width: 40px;
+  }
+  .testimonials .carousel-item {
+    padding: 20px 0;
+  }
